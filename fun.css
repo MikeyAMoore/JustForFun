@@ -1,0 +1,29 @@
+body {
+    background: url("snowynight.jpg");
+    background-size: cover;
+    background-position: 100%;
+    color: #ffffff;
+    font-family: 'Fredoka One', cursive;
+    
+    margin: 0%;
+    padding: 0px 15px 0px 15px;
+
+}
+
+.content-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image img {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 30%;
+    height: 30%;
+    padding-left: 40%;
+    padding-top: 10%;
+
+
+}
