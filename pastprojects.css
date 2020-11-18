@@ -1,0 +1,11 @@
+body {
+    background-image: url(callofduty.jpg);
+    background-size: cover;
+    background-position: 100%;
+    color: black;
+    font-family: 'Fredoka One', cursive;
+    
+    margin: 0%;
+    padding: 0px 15px 0px 15px;
+
+}
