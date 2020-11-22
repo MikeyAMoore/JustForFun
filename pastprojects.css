@@ -7,3 +7,9 @@ body {
     padding: 0px 15px 0px 15px;
 
 }
+
+.work-links {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
